@@ -15,7 +15,7 @@ import { mountAnimations } from './animations.js';
    ============================================= */
 const CONFIG = {
   /** Name displayed in the hero */
-  recipientName: 'Aisya Sabrina',
+  recipientName: 'Aisya Sabrina (Argent)',
 
   /**
    * Birthday: set the actual birth date to make
